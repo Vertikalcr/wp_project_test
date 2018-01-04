@@ -1,0 +1,44 @@
+# Translation of Themes - LazyProf in Spanish (Spain)
+# This file is distributed under the same license as the Themes - LazyProf package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-02 00:16:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - LazyProf\n"
+
+#. Description of the plugin/theme
+msgid "A blue-colored Business theme, perfect for creating a corporate/business website. It boasts two beautifully designed page templates: Home Page and Blog Page, as well as support for custom widgets and a widgetized Footer Area."
+msgstr "Un tema de color azul para empresas, perfecto para crear sitios web de negocios/corporativos. Destacan dos plantillas de página con un diseño muy bonito: página de inicio y página de blog, así como widgets personalizados y área de pie para widgets."
+
+#. Theme Name of the plugin/theme
+msgid "LazyProf"
+msgstr "LazyProf"
+
+#. Template Name of the plugin/theme
+msgid "Blog-left-sidebar"
+msgstr "Blog-barra-lateral-izquierda"
+
+#: template-blog-left.php:38
+msgid "Next"
+msgstr "Siguiente"
+
+#: template-blog-left.php:37
+msgid "Previous"
+msgstr "Anterior"
+
+#. Author of the plugin/theme
+msgid "priyanshu.mittal"
+msgstr "priyanshu.mittal"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/lazyprof-child-version-details-page/"
+msgstr "https://webriti.com/lazyprof-child-version-details-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
